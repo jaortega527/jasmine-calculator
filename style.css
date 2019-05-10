@@ -1,0 +1,32 @@
+.body {
+font-family: 'Karla', sans-serif;
+background-color: #78909C;
+}
+
+.container {
+    margin-top:20px;
+    text-align: center;
+    /* border: solid 1px #37474F; */
+}
+
+.title {
+    font-size: 46px;
+}
+
+.input {
+    font-size:20px;
+    padding:5px;
+    background-color: #BDBDBD;
+    border: solid 1px #F5F5F5;
+}
+
+.result {
+    margin-top:5px;
+    font-size: 25px;
+}
+
+.total {
+    font-size:20px;
+    margin-top:5px;
+    color: #004D40;
+}
