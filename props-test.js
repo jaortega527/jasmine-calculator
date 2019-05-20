@@ -1,0 +1,4 @@
+
+const props = {
+  environment : "TEST"
+};
